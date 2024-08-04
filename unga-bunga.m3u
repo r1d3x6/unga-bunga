@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFtcmmVv/r1d3x6.png" group-title="NOTICE", Welcome Message
 https://www.googleapis.com/drive/v3/files/15tsZXGyOaPr5s6mAlxd29jkbVYSEfJwG?alt=media&key=AIzaSyAyga6UW71noI4s_W1wUbvEkp9HyqxQAeA
 =========================================================================================================
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28wXdwxT/jamuna-news.png" group-title="news", Jamuna TV (Super speed, just keep the wifi on)
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp6Ng4Gh/somoy-news.png" group-title="news", Somoy TV
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28wXdwxT/jamuna-news.png" group-title="news", Jamuna TV
