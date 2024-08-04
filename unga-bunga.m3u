@@ -232,6 +232,10 @@ http://b1g.uk:80/5193/5193/192746
 http://b1g.uk:80/5193/5193/689429
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htPHzwVK/18-sports.png" group-title="sports", Sports 18
 http://b1g.uk:80/5193/5193/415465
+#EXTINF:-1 tvg-logo="" group-title="sports", EuroSport 1
+http://ott.watch/stream/DCHYNU242U9/176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", EuroSport 2
+http://ott.watch/stream/DCHYNU242U9/192.m3u8
 
 =========================================================================================================
 
