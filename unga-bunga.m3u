@@ -104,6 +104,8 @@ http://b1g.uk:80/5193/5193/8519
 
 =========================================================================================================
 
+#EXTINF:-1 tvg-logo="" group-title="kids", 24/7 Motu Patlu
+http://xtv.000:8080/live/27388829/92888372/311373.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2M9b9CY/hungama-kids.png" group-title="kids", Hungama
 http://b1g.uk:80/5193/5193/161878
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2M9b9CY/hungama-kids.png" group-title="kids", Hungama (2)
@@ -146,7 +148,7 @@ http://b1g.uk:80/5193/5193/21559
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdvH5ks6/nick-kids.png" group-title="kids", Nick [Hindi]
 https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=545&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdvH5ks6/nick-kids.png" group-title="kids", Nick [Bangla]
-https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
+https://tootvnet.xyz/Jio/stream.m3u8?id=545&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLpr4Q8M/sonic-kids.png" group-title="kids", Sonic [Hindi]
 http://onceeer.top:8080/live/471712225818150/414ac5b53c93/53616.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLpr4Q8M/sonic-kids.png" group-title="kids", Sonic [Bangla]
