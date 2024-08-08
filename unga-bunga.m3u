@@ -257,12 +257,17 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://approved-from-warrior-proposal.trycloudflare.com/app/live.php?id=146&e=.m3u
 #EXTINF:-1 tvg-logo="" group-title="documentary", TLC
 http://103.110.110.11:8081/live/TLC/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="documentary", HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8vZZ7KV/travelxp-documentary.png" group-title="documentary", Travel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4R3dCF2/nhkworld-documentary.png" group-title="documentary", NHK World
 http://b1g.uk:80/5193/5193/605940
+
+=========================================================================================================
+
+#EXTINF:-1 tvg-logo="" group-title="movies", Star Movies HD
+http://103.84.57.155:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="movies", HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
 =========================================================================================================
 
