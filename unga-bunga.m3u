@@ -109,7 +109,7 @@ http://b1g.uk:80/5193/5193/8519
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2M9b9CY/hungama-kids.png" group-title="kids", Hungama
 http://b1g.uk:80/5193/5193/161878
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2M9b9CY/hungama-kids.png" group-title="kids", Hungama (2)
-http://filex.tv:8080/live/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/123826.m3u8
+http://103.84.57.155:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dZypsPY/superhungama-kids.png" group-title="kids", Super Hangama
 http://b1g.uk:80/5193/5193/663387
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd3HwJNj/disneysd-kids.png" group-title="kids", Disney SD India
