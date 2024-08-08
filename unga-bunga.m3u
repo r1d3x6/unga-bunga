@@ -32,7 +32,7 @@ http://b1g.uk:80/5193/5193/7962
 =========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjPpqfpJ/bbcnews-international.png" group-title="international", BBC News
-
+http://103.84.57.155:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Qy7FM1s/trtworld-international.png" group-title="international", TRT World
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxfc5WHB/cnn-international.png" group-title="international", CNN
