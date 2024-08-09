@@ -26,6 +26,8 @@ http://176.119.29.52/live.ts?channelId=83&uid=7045&deviceMac=00:1A:79:0A:3B:36
 http://b1g.uk:80/5193/5193/7974
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzvD3dd2/geo-news.png" group-title="news", Geo News
 http://b1g.uk:80/5193/5193/7962
+#EXTINF:-1 tvg-logo="" group-title="news", TV9 Bangla
+https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
 
 =========================================================================================================
 
