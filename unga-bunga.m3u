@@ -94,8 +94,6 @@ http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6HJzf4/sonyaath-entertainment.png" group-title="entertainment", Sony Aath
 http://starshare.live:8080/live/irfan/irfan/4083.ts
-#EXTINF:-1 tvg-logo="" group-title="entertainment", Sony Max
-http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcLfgXDC/hum-entertainment.png" group-title="entertainment", Hum Tv
 http://b1g.uk:80/5193/5193/172739
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdhwN63D/humasala-entertainment.png" group-title="entertainment", Hum Masala
@@ -294,6 +292,8 @@ http://b1g.uk:80/5193/5193/605940
 http://103.84.57.155:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXhwLFL7/hbo-movies.png" group-title="movies", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="movies", Sony Max
+http://103.120.172.74:1150
 
 =========================================================================================================
 
