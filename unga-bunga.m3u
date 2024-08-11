@@ -11,23 +11,25 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpm9jnxj/ekattor-news.png" group-title="news", Ekattor TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t44vBxSb/independent-news.png" group-title="news", Independent TV
-http://starshare.live:8080/live/irfan/irfan/423.ts
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdZZnjsF/channel24-news.png" group-title="news", Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHzGyQzs/atn-news.png" group-title="news", ATN News
 http://176.119.29.52/live.ts?channelId=83&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsHh7KbV/news24-news.png" group-title="news", News 24
-
+https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nr3ywDn/satv-news.png" group-title="news", SATV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW9GB8B/dbc-news.png" group-title="news", DBC News
-
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdX0Bgp/ptv-news.png" group-title="news", PTV News
 http://b1g.uk:80/5193/5193/7974
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzvD3dd2/geo-news.png" group-title="news", Geo News
 http://b1g.uk:80/5193/5193/7962
 #EXTINF:-1 tvg-logo="" group-title="news", TV9 Bangla
 https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="news", Zee 24 Ghonta
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
 =========================================================================================================
 
@@ -36,9 +38,15 @@ http://103.84.57.155:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Qy7FM1s/trtworld-international.png" group-title="international", TRT World
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxfc5WHB/cnn-international.png" group-title="international", CNN
-
+https://cord-cutter.net:8080/753468/894568/104884
+#EXTINF:-1 tvg-logo="" group-title="international", DW
+https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qHhcQFM/foxnews-international.png" group-title="international", Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="international", Reuters
+https://ythls.armelin.one/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="international", ABC News
+https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBVRLGCV/wion-international.png" group-title="international", WION
 https://mrking.site/Ozee/stream.m3u8?id=0-9-wion
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y82v2kx5/cctv-international.png" group-title="international", CCTV13
@@ -58,6 +66,8 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13ShnmDL/green-entertainment.png" group-title="entertainment", Green TV
 
+#EXTINF:-1 tvg-logo="" group-title="entertainment", Channel 9
+http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpdf5kS/deepto-entertainment.png" group-title="entertainment", Deepto TV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fNnpCqX/masranga-entertainment.png" group-title="entertainment", Maasranga TV
@@ -66,6 +76,10 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLJ6nJh0/gtv-entertainment.png" group-title="entertainment", GTV
 http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=1904&deviceMac=00:1A:79:4C:9A:52
+#EXTINF:-1 tvg-logo="" group-title="entertainment", NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="entertainment", Bangla Vision
+http://tv.cloudcdn.me/live.ts?channelId=84&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z0dwpcm/channeli-entertainment.png" group-title="entertainment", Channel I
 http://208.86.19.13:81/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMj4sVcd/colorsbangla-entertainment.png" group-title="entertainment", Colors Bangla
@@ -80,6 +94,8 @@ http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6HJzf4/sonyaath-entertainment.png" group-title="entertainment", Sony Aath
 http://starshare.live:8080/live/irfan/irfan/4083.ts
+#EXTINF:-1 tvg-logo="" group-title="entertainment", Sony Max
+http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcLfgXDC/hum-entertainment.png" group-title="entertainment", Hum Tv
 http://b1g.uk:80/5193/5193/172739
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdhwN63D/humasala-entertainment.png" group-title="entertainment", Hum Masala
@@ -162,7 +178,11 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGpDyVMG/discovery-kids.png" group-title="kids", Discovery Kids
 https://tplay.dinesh29.com.np/live/tataplay-universal/discovery-kids/index.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxLDVtFk/pogo-kids.png" group-title="kids", Pogo
-http://filex.tv:8080/live/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/320.ts
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="kids", Duronto 
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF:-1 tvg-logo="" group-title="kids", Minimax
+https://livetranscode.com/Minimax/index.m3u8
 
 =========================================================================================================
 
@@ -184,6 +204,8 @@ https://nowsportstv.com/crichd/stream.php?id=asportshd&e=.m3u8
 http://b1g.uk:80/5193/5193/239424
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMCSsT5P/star1-sports.png" group-title="sports", Star Sports 1
 http://b1g.uk:80/5193/5193/260998
+#EXTINF:-1 tvg-logo="" group-title="sports",  Star Sports 2
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYJ1gDKf/willow-sports.png" group-title="sports", Willow Cricket
 http://b1g.uk:80/5193/5193/260993
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRjJnngF/willowxtra-sports.png" group-title="sports", Willow Xtra
@@ -251,6 +273,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzWz1b0v/disscience-documentary.png" group-title="documentary", Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="" group-title="documentary", Discovery Investigation
+https://freeott.site/discovery/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLcBRxY5/natgeo-documentary.png" group-title="documentary", National Geography
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B678w1QP/animalplanet-documentary.png" group-title="documentary", Animal Planet
@@ -279,6 +303,8 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?channel-id=@
 http://b1g.uk:80/5193/5193/11487
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85RKRN1Y/peacetv-religion.png" group-title="regional", Peace Tv English
 http://b1g.uk:80/5193/5193/21743
+#EXTINF:-1 tvg-logo="" group-title="religion", Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q79Sc12N/eman-religion.png" group-title="regional", Eman Channel
 http://b1g.uk:80/5193/5193/20140
 
