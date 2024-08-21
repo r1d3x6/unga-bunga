@@ -191,7 +191,7 @@ http://livetvbox.live:8080/live/Nick123/Nick123/2494.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F49ecbf6a-bcfc-46af-a177-820a20501dd9%2FCricket_Gold_Logo_16-9__2__-_Beej_Gefsky.jpg" group-title="sports", Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzNWZJ2Q/t-sports.png" group-title="sports", Tsports
-http://livetvbox.live:8080/live/554147/554147/130714.m3u8
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzNWZJ2Q/t-sports.png" group-title="sports", Tsports Live Feed
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh1R2qMp/ptv-sports.png" group-title="sports", PTV Sports
