@@ -187,7 +187,7 @@ https://livetranscode.com/Minimax/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="sports", Sony LIV
 https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxdkMg4L/astrocricket-sports.png" group-title="sports", Astro Cricket
-http://livetvbox.live:8080/live/Nick123/Nick123/2494.m3u8
+https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F49ecbf6a-bcfc-46af-a177-820a20501dd9%2FCricket_Gold_Logo_16-9__2__-_Beej_Gefsky.jpg" group-title="sports", Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzNWZJ2Q/t-sports.png" group-title="sports", Tsports
@@ -199,7 +199,7 @@ http://b1g.uk:80/5193/5193/261004
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65LXGnSf/geosuper-sports.png" group-title="sports", Geo Super
 http://b1g.uk:80/5193/5193/7955
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc0wcyb/a-sports.png" group-title="sports", Asports
-https://nowsportstv.com/crichd/stream.php?id=asportshd&e=.m3u8
+http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1D2XgtC/ten-sports.png" group-title="sports", Ten Sports
 http://b1g.uk:80/5193/5193/239424
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMCSsT5P/star1-sports.png" group-title="sports", Star Sports 1
