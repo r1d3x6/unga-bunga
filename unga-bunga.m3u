@@ -210,6 +210,8 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 http://b1g.uk:80/5193/5193/260993
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRjJnngF/willowxtra-sports.png" group-title="sports", Willow Xtra
 http://b1g.uk:80/5193/5193/615351
+#EXTINF:-1 tvg-logo="" group-title="sports", Sky Sports Main event
+http://b1g.uk:80/5193/5193/164493
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGGqwH9b/skycricket-sports.png" group-title="sports", Sky Sports Cricket
 http://b1g.uk:80/5193/5193/261002
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmKV1sWF/skynz-sports.png" group-title="sports", Sky Sport Nz 1
@@ -235,7 +237,7 @@ http://b1g.uk:80/5193/5193/260996
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s28dRcQs/criclife-sports.png" group-title="sports", CricLife 3
 http://b1g.uk:80/5193/5193/705330
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGhWwwG2/fox501-sports.png" group-title="sports", Fox 501
-http://bollox.ie:8080/play/live.php?mac=00:1A:79:42:AF:80&stream=196712&extension=ts&play_token=uv54Hb00Kz
+http://b1g.uk:80/5193/5193/260995
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8c7j2kc/tnt-sports.png" group-title="sports", TNT Sports 1
 http://b1g.uk:80/5193/5193/697061
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8c7j2kc/tnt-sports.png" group-title="sports", TNT Sports 2
