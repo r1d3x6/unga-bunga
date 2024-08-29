@@ -133,7 +133,7 @@ http://b1g.uk:80/5193/5193/663387
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wby78kgQ/disneyhd-kids.png" group-title="kids", Disney India
 http://filex.tv:8080/live/Restreaming@Filex@MalikBilal007@854369/HelloSky@MalikBilal@LiveTv@7544898/246763.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wby78kgQ/disneyhd-kids.png" group-title="kids", Disney HD India
-http://starshare.live:8080/live/irfan/irfan/19741.ts
+http://119.156.26.155:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wby78kgQ/disneyhd-kids.png" group-title="kids", Disney SD [UK]
 http://b1g.uk:80/5193/5193/11847
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wby78kgQ/disneyhd-kids.png" group-title="kids", Disney International
