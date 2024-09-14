@@ -3,15 +3,15 @@
 https://www.googleapis.com/drive/v3/files/15tsZXGyOaPr5s6mAlxd29jkbVYSEfJwG?alt=media&key=AIzaSyAyga6UW71noI4s_W1wUbvEkp9HyqxQAeA
 =========================================================================================================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp6Ng4Gh/somoy-news.png" group-title="news", Somoy TV
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28wXdwxT/jamuna-news.png" group-title="news", Jamuna TV
-https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMK4X1N/ekhon-news.png" group-title="news", Ekhon TV
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpm9jnxj/ekattor-news.png" group-title="news", Ekattor TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t44vBxSb/independent-news.png" group-title="news", Independent TV
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdZZnjsF/channel24-news.png" group-title="news", Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHzGyQzs/atn-news.png" group-title="news", ATN News
@@ -61,7 +61,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtfVmrdS/btv-entertainment.png" group-title="entertainment", BTV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNXHtXG0/btvworld-entertainment.png" group-title="entertainment", BTV World
-
+http://172.105.123.238:18002/play/a038
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwmCypg0/rtv-entertainment.png" group-title="entertainment", RTV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13ShnmDL/green-entertainment.png" group-title="entertainment", Green TV
@@ -69,7 +69,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="" group-title="entertainment", Channel 9
 http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpdf5kS/deepto-entertainment.png" group-title="entertainment", Deepto TV
-
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fNnpCqX/masranga-entertainment.png" group-title="entertainment", Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2660bJcp/ekushtv-entertainment.png" group-title="entertainment", Ekushey TV
@@ -168,7 +168,7 @@ https://tootvnet.xyz/Jio/stream.m3u8?id=545&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLpr4Q8M/sonic-kids.png" group-title="kids", Sonic [Hindi]
 http://onceeer.top:8080/live/471712225818150/414ac5b53c93/53616.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLpr4Q8M/sonic-kids.png" group-title="kids", Sonic [Bangla]
-https://jio.dinesh29.com.np/live/jio-universal/sonic-bangla/index.ts
+http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W40tDhGR/sonyyay-kids.png" group-title="kids", Sony Yay
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2802
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0KGNZ32/cn-kids.png" group-title="kids", Cartoon Network [Hindi]
@@ -265,6 +265,8 @@ http://ott.watch/stream/DCHYNU242U9/192.m3u8
 
 =========================================================================================================
 
+#EXTINF:-1 tvg-logo="" group-title="documentary", National Geographic
+http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2VG6gsJ/cgtn-documentary.png" group-title="documentary", CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMsBffGn/foodnetwork-documentary.png" group-title="documentary", Food Network
