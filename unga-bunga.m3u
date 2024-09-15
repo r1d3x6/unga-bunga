@@ -9,7 +9,7 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMK4X1N/ekhon-news.png" group-title="news", Ekhon TV
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpm9jnxj/ekattor-news.png" group-title="news", Ekattor TV
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t44vBxSb/independent-news.png" group-title="news", Independent TV
 https://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdZZnjsF/channel24-news.png" group-title="news", Channel 24
@@ -17,11 +17,11 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHzGyQzs/atn-news.png" group-title="news", ATN News
 http://176.119.29.52/live.ts?channelId=83&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsHh7KbV/news24-news.png" group-title="news", News 24
-https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nr3ywDn/satv-news.png" group-title="news", SATV
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW9GB8B/dbc-news.png" group-title="news", DBC News
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdX0Bgp/ptv-news.png" group-title="news", PTV News
 http://b1g.uk:80/5193/5193/7974
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzvD3dd2/geo-news.png" group-title="news", Geo News
@@ -40,7 +40,7 @@ http://103.84.57.155:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxfc5WHB/cnn-international.png" group-title="international", CNN
 https://cord-cutter.net:8080/753468/894568/104884
 #EXTINF:-1 tvg-logo="" group-title="international", DW
-https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qHhcQFM/foxnews-international.png" group-title="international", Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="international", Reuters
@@ -65,7 +65,7 @@ http://172.105.123.238:18002/play/a038
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwmCypg0/rtv-entertainment.png" group-title="entertainment", RTV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13ShnmDL/green-entertainment.png" group-title="entertainment", Green TV
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="entertainment", Channel 9
 http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpdf5kS/deepto-entertainment.png" group-title="entertainment", Deepto TV
@@ -270,7 +270,7 @@ http://ott.watch/stream/DCHYNU242U9/192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="documentary", National Geographic
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2VG6gsJ/cgtn-documentary.png" group-title="documentary", CGTN Documentary
-http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMsBffGn/foodnetwork-documentary.png" group-title="documentary", Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzBm8bGp/dispakistan-documentary.png" group-title="documentary", Discover Pakistan
