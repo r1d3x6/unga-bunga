@@ -128,6 +128,8 @@ http://b1g.uk:80/5193/5193/161878
 http://103.84.57.155:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dZypsPY/superhungama-kids.png" group-title="kids", Super Hangama
 http://b1g.uk:80/5193/5193/663387
+#EXTINF:-1 tvg-logo="" group-title="kids", Rongeentv TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd3HwJNj/disneysd-kids.png" group-title="kids", Disney SD India
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wby78kgQ/disneyhd-kids.png" group-title="kids", Disney India
