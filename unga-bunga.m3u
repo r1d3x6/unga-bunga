@@ -51,6 +51,8 @@ https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y82v2kx5/cctv-international.png" group-title="international", CCTV13
 https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="international", CGTN
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jd5c5zJm/russia1-international.png" group-title="international", Russia 1
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1TkQF13/aljazeera-international.png" group-title="international", Al Jazeera
@@ -311,6 +313,8 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?channel-id=@SaudiQuranTv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLQwLqNp/ksasunnah-religion.png" group-title="regional", Saudi Al Sunnah Al Nabwi
 http://b1g.uk:80/5193/5193/11487
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLQwLqNp/ksasunnah-religion.png" group-title="regional", Makkah TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85RKRN1Y/peacetv-religion.png" group-title="regional", Peace Tv English
 http://b1g.uk:80/5193/5193/21743
 #EXTINF:-1 tvg-logo="" group-title="religion", Peace TV Bangla
