@@ -84,6 +84,8 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=84&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z0dwpcm/channeli-entertainment.png" group-title="entertainment", Channel I
 http://208.86.19.13:81/510.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="entertainment", NAN TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMj4sVcd/colorsbangla-entertainment.png" group-title="entertainment", Colors Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8G5W2qz/starjalsha-entertainment.png" group-title="entertainment", Star Jalsha
@@ -95,7 +97,7 @@ http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJJzwrC5/jalshamovies-entertainment.png" group-title="entertainment", Jalsa Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6HJzf4/sonyaath-entertainment.png" group-title="entertainment", Sony Aath
-http://starshare.live:8080/live/irfan/irfan/4083.ts
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcLfgXDC/hum-entertainment.png" group-title="entertainment", Hum Tv
 http://b1g.uk:80/5193/5193/172739
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdhwN63D/humasala-entertainment.png" group-title="entertainment", Hum Masala
@@ -199,7 +201,7 @@ https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzNWZJ2Q/t-sports.png" group-title="sports", Tsports
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JzNWZJ2Q/t-sports.png" group-title="sports", Tsports Live Feed
-http://himelop-back.ddns.net:8080/hls/col12.m3u8
+http://ktv.im:8080/live/111222/222111/83779.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh1R2qMp/ptv-sports.png" group-title="sports", PTV Sports
 http://b1g.uk:80/5193/5193/261004
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh1R2qMp/ptv-sports.png" group-title="sports", PTV Sports (Low)
