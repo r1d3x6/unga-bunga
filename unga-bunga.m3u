@@ -185,6 +185,8 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="" group-title="kids", Minimax
 https://livetranscode.com/Minimax/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="kids", Toon Google
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 
 =========================================================================================================
 
@@ -200,6 +202,8 @@ https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh1R2qMp/ptv-sports.png" group-title="sports", PTV Sports
 http://b1g.uk:80/5193/5193/261004
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh1R2qMp/ptv-sports.png" group-title="sports", PTV Sports (Low)
+http://175.107.244.52:4457/play/a08g/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65LXGnSf/geosuper-sports.png" group-title="sports", Geo Super
 http://b1g.uk:80/5193/5193/7955
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQc0wcyb/a-sports.png" group-title="sports", Asports
@@ -306,6 +310,8 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="" group-title="movies", KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="movies", VTC
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
 =========================================================================================================
 
